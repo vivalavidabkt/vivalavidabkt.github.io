@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vivalavidabkt.github.io/sitemap.xml
